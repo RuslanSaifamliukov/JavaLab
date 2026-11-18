@@ -4,7 +4,8 @@
 
 ## Структура проекта
 
-- `src/lr1` — задачи для самостоятельной работы (Example1–Example5/Task1-Task10)
+- `src/lr1` — задачи для самостоятельной работы (Example1–Example5 / Task1-Task10)
+- `src/lr3` — задачи для самостоятельной работы (Example1 / Task1-Task10)
 - `src/timus` — решения задач с сайта acm.timus.ru:
   - `timus_1000` — задача 1000 «A+B Problem»
   - `timus_1293` — задача 1293 «Эния»
